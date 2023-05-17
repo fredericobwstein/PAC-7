@@ -1,7 +1,7 @@
 # Projeto PAC-7
 
 # Objetivo do projeto
-O projeto tem como objetivo realizar previsões dos preços de imóveis de determinadas regiões de Joinville/SC utilizando inteligência artificial, de acordo com características como localização, m² e quantidade de quartos. Desta maneira o usuário conseguirá visualizar a previsão gerada do valor para os imóveis com as devidas características em uma aplicação web
+O projeto tem como objetivo realizar previsões dos preços de imóveis de determinadas regiões de Joinville/SC, utilizando inteligência artificial, de acordo com características como: localização, m² e quantidade de quartos. Desta maneira o usuário conseguirá visualizar a previsão gerada do valor dos imóveis, com as devidas características em uma aplicação web.
 
 # Requisitos do protótipo
 Para efetivação desta proposta, iremos utilizar a técnica de raspagem para coletar os dados de imóveis das regiões desejadas, assim como limpar dados "sujos", após isso iremos treinar a máquina para que consiga fazer previsões com base no dataset coletado.
